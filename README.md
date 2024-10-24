@@ -1,47 +1,44 @@
-<h1 style="font-family: Arial, sans-serif; color: #2c3e50; font-size: 2.5em; margin-bottom: 10px;">Benjamín Galán Díaz</h1>
-<p style="font-family: Arial, sans-serif; color: #7f8c8d; font-size: 1.2em; margin-bottom: 20px;">Ingeniero de Sistemas y Desarrollador Web</p>
+# 👋 Hola, soy Benjamín Galán Díaz
 
-<h2 style="font-family: Arial, sans-serif; color: #2c3e50; font-size: 1.8em; margin-bottom: 15px;">Sobre mí</h2>
-<p style="font-family: Arial, sans-serif; background-color: #ffffff; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    Estudiante de último año de Ingeniería en Sistemas de la Información en la Universidad Nacional Politécnica de Nicaragua. 
-    Apasionado por el desarrollo web y el aprendizaje continuo. Busco contribuir en proyectos desafiantes y seguir mejorando mis habilidades.
-</p>
-<ul style="list-style-type: none; padding-left: 0;">
-    <li style="margin-bottom: 10px;">📫 Mail: <a href="mailto:begalan@outlook.es" style="color: #3498db; text-decoration: none;">begalan@outlook.es</a></li>
-    <li style="margin-bottom: 10px;">😄 Pronouns: him</li>
-    <li style="margin-bottom: 10px;">⚡ Fun fact: I love k-dramas</li>
-</ul>
+## 🌟 Ingeniero de Sistemas y Desarrollador Web
 
-<h2 style="font-family: Arial, sans-serif; color: #2c3e50; font-size: 1.8em; margin-bottom: 15px;">Tecnologías y Herramientas</h2>
-<p style="font-family: Arial, sans-serif; background-color: #ffffff; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <span style="display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px;">
-        <span style="display: flex; align-items: center; padding: 10px; border-radius: 5px; font-weight: bold; background-color: #ffeaa7; color: #d35400;">
-            <i class="fab fa-html5" style="margin-right: 10px; font-size: 1.2em;"></i> HTML
-        </span>
-        <span style="display: flex; align-items: center; padding: 10px; border-radius: 5px; font-weight: bold; background-color: #fab1a0; color: #e84393;">
-            <i class="fab fa-sass" style="margin-right: 10px; font-size: 1.2em;"></i> Sass (CSS)
-        </span>
-        <span style="display: flex; align-items: center; padding: 10px; border-radius: 5px; font-weight: bold; background-color: #ffeaa7; color: #f39c12;">
-            <i class="fab fa-js" style="margin-right: 10px; font-size: 1.2em;"></i> JavaScript
-        </span>
-        <span style="display: flex; align-items: center; padding: 10px; border-radius: 5px; font-weight: bold; background-color: #a29bfe; color: #4834d4;">
-            <i class="fab fa-php" style="margin-right: 10px; font-size: 1.2em;"></i> PHP
-        </span>
-        <span style="display: flex; align-items: center; padding: 10px; border-radius: 5px; font-weight: bold; background-color: #81ecec; color: #0984e3;">
-            <i class="fas fa-database" style="margin-right: 10px; font-size: 1.2em;"></i> MySQL
-        </span>
-        <span style="display: flex; align-items: center; padding: 10px; border-radius: 5px; font-weight: bold; background-color: #fab1a0; color: #d63031;">
-            <i class="fab fa-git-alt" style="margin-right: 10px; font-size: 1.2em;"></i> Git
-        </span>
-        <span style="display: flex; align-items: center; padding: 10px; border-radius: 5px; font-weight: bold; background-color: #fab1a0; color: #c0392b;">
-            <i class="fab fa-npm" style="margin-right: 10px; font-size: 1.2em;"></i> Npm
-        </span>
-        <span style="display: flex; align-items: center; padding: 10px; border-radius: 5px; font-weight: bold; background-color: #fab1a0; color: #e17055;">
-            <i class="fab fa-laravel" style="margin-right: 10px; font-size: 1.2em;"></i> Composer
-        </span>
-    </span>
-</p>
+### Sobre mí
+Soy estudiante de último año en Ingeniería en Sistemas de la Información en la Universidad Nacional Politécnica de Nicaragua. Apasionado por el desarrollo web y el aprendizaje continuo, busco contribuir en proyectos desafiantes y mejorar mis habilidades constantemente.
 
-<p style="text-align: center; margin-top: 20px; color: #7f8c8d;">No dudes en contactarme para colaborar en proyectos interesantes!</p>
+- 📫 **Correo:** [begalan@outlook.es](mailto:begalan@outlook.es)
+- 😄 **Pronombres:** él
+- ⚡ **Dato curioso:** ¡Me encantan los k-dramas!
 
+---
+
+### 🛠️ Tecnologías y Herramientas
+<div>
+  <span style="margin-right: 10px;">HTML</span>
+  <span style="margin-right: 10px;">Sass (CSS)</span>
+  <span style="margin-right: 10px;">JavaScript</span>
+  <span style="margin-right: 10px;">PHP</span>
+  <span style="margin-right: 10px;">MySQL</span>
+  <span style="margin-right: 10px;">Git</span>
+  <span style="margin-right: 10px;">Npm</span>
+  <span style="margin-right: 10px;">Composer</span>
+</div>
+
+---
+
+### 🌐 Conéctate conmigo
+- [LinkedIn](https://www.linkedin.com/in/benjamin-galan-diaz)
+- [Twitter](https://twitter.com/benjamin_gal)
+- [GitHub](https://github.com/benjamin-galan)
+
+---
+
+### 📈 Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=benjamin-galan&show_icons=true&theme=dark)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs?username=benjamin-galan&show_icons=true&locale=en&layout=compact&theme=dark)
+
+---
+
+### 🤝 ¡Colaboremos!
+No dudes en contactarme para colaborar en proyectos interesantes. ¡Estoy listo para el desafío!
 
