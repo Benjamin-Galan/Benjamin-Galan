@@ -14,7 +14,7 @@
 
 <h2 style="font-family: Arial, sans-serif; color: #2c3e50; font-size: 1.8em; margin-bottom: 15px;">Tecnologías y Herramientas</h2>
 <p style="font-family: Arial, sans-serif; background-color: #ffffff; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <span style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <span style="display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px;">
         <span style="display: flex; align-items: center; padding: 10px; border-radius: 5px; font-weight: bold; background-color: #ffeaa7; color: #d35400;">
             <i class="fab fa-html5" style="margin-right: 10px; font-size: 1.2em;"></i> HTML
         </span>
@@ -43,4 +43,5 @@
 </p>
 
 <p style="text-align: center; margin-top: 20px; color: #7f8c8d;">No dudes en contactarme para colaborar en proyectos interesantes!</p>
+
 
