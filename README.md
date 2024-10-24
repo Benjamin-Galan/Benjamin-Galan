@@ -13,14 +13,14 @@ Soy estudiante de último año en Ingeniería en Sistemas de la Información en 
 
 ### 🛠️ Tecnologías y Herramientas
 <div>
-  <span style="margin-right: 10px;">HTML</span>
-  <span style="margin-right: 10px;">Sass (CSS)</span>
-  <span style="margin-right: 10px;">JavaScript</span>
-  <span style="margin-right: 10px;">PHP</span>
-  <span style="margin-right: 10px;">MySQL</span>
-  <span style="margin-right: 10px;">Git</span>
-  <span style="margin-right: 10px;">Npm</span>
-  <span style="margin-right: 10px;">Composer</span>
+  <span style="color: #d35400; font-weight: bold;">HTML</span> |
+  <span style="color: #e84393; font-weight: bold;">Sass (CSS)</span> |
+  <span style="color: #f39c12; font-weight: bold;">JavaScript</span> |
+  <span style="color: #4834d4; font-weight: bold;">PHP</span> |
+  <span style="color: #0984e3; font-weight: bold;">MySQL</span> |
+  <span style="color: #d63031; font-weight: bold;">Git</span> |
+  <span style="color: #c0392b; font-weight: bold;">Npm</span> |
+  <span style="color: #e17055; font-weight: bold;">Composer</span>
 </div>
 
 ---
@@ -41,4 +41,3 @@ Soy estudiante de último año en Ingeniería en Sistemas de la Información en 
 
 ### 🤝 ¡Colaboremos!
 No dudes en contactarme para colaborar en proyectos interesantes. ¡Estoy listo para el desafío!
-
