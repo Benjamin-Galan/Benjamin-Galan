@@ -3,10 +3,10 @@
 ## 🌟 Ingeniero de Sistemas y Desarrollador Web
 
 ### Sobre mí
-Soy estudiante de último año en Ingeniería en Sistemas de la Información en la Universidad Nacional Politécnica de Nicaragua. Apasionado por el desarrollo web y el aprendizaje continuo, busco contribuir en proyectos desafiantes y mejorar mis habilidades constantemente.
+Soy estudiante de último año en Ingeniería en Sistemas de la Información en la Universidad Nacional Politécnica de Nicaragua. Constantemente creo proyectos para potenciar mis habilidades y aplico el aprendizaje continuo para fortalecer mi conocimiento, con el objetivo de aportar en los proyectos que llegue a desempeñar.
 
 - 📫 **Correo:** [begalan@outlook.es](mailto:begalan@outlook.es)
-- ⚡ **Dato curioso:** ¡Me encantan los k-dramas!
+- ⚡ **Dato curioso:** ¡Fan de la saga de Resident Evil!
 
 ---
 
@@ -23,8 +23,8 @@ Soy estudiante de último año en Ingeniería en Sistemas de la Información en 
 ---
 
 ### 🌐 Conéctate conmigo
-- [LinkedIn](https://www.linkedin.com/in/benjamin-galan-diaz)
-- [Twitter](https://twitter.com/benjamin_gal)
+- [LinkedIn](https://www.linkedin.com/in/benjam%C3%ADn-gal%C3%A1n-d%C3%ADaz-9346ba297/)
+- [Twitter](https://www.instagram.com/bgalan.dev)
 - [GitHub](https://github.com/benjamin-galan)
 
 ---
