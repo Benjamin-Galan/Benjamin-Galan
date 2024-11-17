@@ -3,7 +3,7 @@
 ## 🌟 Ingeniero de Sistemas y Desarrollador Web
 
 ### Sobre mí
-Soy estudiante de último año en Ingeniería en Sistemas de la Información en la Universidad Nacional Politécnica de Nicaragua. Constantemente creo proyectos para potenciar mis habilidades y aplico el aprendizaje continuo para fortalecer mi conocimiento, con el objetivo de aportar en los proyectos que llegue a desempeñar.
+Estudiante de último año de la licenciatura en Ingeniería de Sistemas en la Universidad Nacional Politécnica de Nicaragua. Me desempeño en el desarrollo web. He desarrollado proyectos que me han permitido aplicar y mejorar mis habilidades en tecnologías del lado del servidor y el cliente. Busco una oportunidad profesional en donde pueda seguir creciendo como desarrollador, aportando valor, contribuyendo con mis habilidades técnicas y aprendiendo nuevas tecnologías.
 
 - 📫 **Correo:** [begalan@outlook.es](mailto:begalan@outlook.es)
 - ⚡ **Dato curioso:** ¡Fan de la saga de Resident Evil!
@@ -19,12 +19,14 @@ Soy estudiante de último año en Ingeniería en Sistemas de la Información en 
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![Npm](https://img.shields.io/badge/Npm-%234A1460.svg?style=flat&logo=npm&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-%23D50000.svg?style=flat&logo=composer&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+
 
 ---
 
 ### 🌐 Conéctate conmigo
 - [LinkedIn](https://www.linkedin.com/in/benjam%C3%ADn-gal%C3%A1n-d%C3%ADaz-9346ba297/)
-- [Twitter](https://www.instagram.com/bgalan.dev)
 - [GitHub](https://github.com/benjamin-galan)
 
 ---
