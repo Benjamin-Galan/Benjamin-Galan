@@ -27,7 +27,7 @@ Estudiante de último año de la licenciatura en Ingeniería de Sistemas en la U
 
 ### 🌐 Conéctate conmigo
 - [LinkedIn](https://www.linkedin.com/in/benjam%C3%ADn-gal%C3%A1n-d%C3%ADaz-9346ba297/)
-- [GitHub](https://github.com/benjamin-galan)
+- [Portfolio]([https://github.com/benjamin-galan](https://my-portfolio-swart-tau-68.vercel.app/))
 
 ---
 
