@@ -5,8 +5,8 @@
 ### Sobre mí
 Estudiante de último año de la licenciatura en Ingeniería de Sistemas en la Universidad Nacional Politécnica de Nicaragua. Me desempeño en el desarrollo web. He desarrollado proyectos que me han permitido aplicar y mejorar mis habilidades en tecnologías del lado del servidor y el cliente. Busco una oportunidad profesional en donde pueda seguir creciendo como desarrollador, aportando valor, contribuyendo con mis habilidades técnicas y aprendiendo nuevas tecnologías.
 
-- 📫 **Correo:** [begalan@outlook.es](mailto:begalan@outlook.es)
-- ⚡ **Dato curioso:** ¡Fan de la saga de Resident Evil!
+📫 **Correo:** [begalan@outlook.es](mailto:begalan@outlook.es)
+⚡ **Dato curioso:** ¡Fan de la saga de Resident Evil!
 
 ---
 
